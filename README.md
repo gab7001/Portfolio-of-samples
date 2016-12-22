@@ -1,2 +1,2 @@
 # Portfolio-of-samples
-Samples of work
+Here you can find some samples of my work in Data Analysis
